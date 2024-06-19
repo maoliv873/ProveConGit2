@@ -4,7 +4,9 @@
     {
         public string GetHello()
         {
+            print("Hello");
             return "Hello";
+
         }
     }
 }
