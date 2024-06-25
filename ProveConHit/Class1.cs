@@ -5,6 +5,7 @@
         public string GetHello()
         {
             print("Hello");
+            print("Hello");
             return "Hello";
 
         }
